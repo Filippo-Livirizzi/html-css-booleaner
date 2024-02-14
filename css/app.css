@@ -1,8 +1,30 @@
-.page-header{
+.page-header
+{
     background-color: rgb(93, 197, 245);
     padding: 50px;
     margin: -8px;
 }
-.logo{
+.logo
+{
     width: 200px;
+}
+
+.title
+{
+    margin-bottom: -20px;
+}
+
+.date
+{
+    margin-top: -14px;
+}
+
+.main-img
+{
+    margin-bottom: -15px;
+}
+
+.second-p
+{
+    margin-top: -15px;
 }
