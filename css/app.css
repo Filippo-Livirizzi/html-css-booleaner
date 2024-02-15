@@ -1,3 +1,4 @@
+
 .page-header
 {
     background-color: rgb(93, 197, 245);
@@ -7,6 +8,8 @@
 .logo
 {
     width: 200px;
+    margin-left: -35px;
+    
 }
 
 .title
@@ -17,6 +20,7 @@
 .date
 {
     margin-top: -14px;
+    color: gray;
 }
 
 .main-img
@@ -42,12 +46,28 @@ thead
     color: aliceblue;
     text-align:left;   
 }
-
+tr:hover 
+{
+    background-color: chocolate;
+}
+td, th
+{
+    padding: 15px;
+}
 table
 {
     margin-bottom: 30px;
+    width: 100%;
 }
 
+.prima-righa
+{
+    background-color: rgba(195, 212, 214, 0.801);
+}
+.terza-righa
+{
+    background-color: rgba(195, 212, 214, 0.801);
+}
 footer
 {
     color: aliceblue;
@@ -55,4 +75,9 @@ footer
     background-color: rgb(5, 5, 95);
     padding: 2px;
     margin: -8px;
+}
+
+main
+{
+    margin-left: 10px;
 }
