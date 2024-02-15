@@ -28,3 +28,31 @@
 {
     margin-top: -15px;
 }
+.giallo
+{
+    background:#FFFF00;
+}
+.list
+{
+    margin-left: -20px;
+}
+thead
+{
+    background-color: rgb(101, 163, 221);
+    color: aliceblue;
+    text-align:left;   
+}
+
+table
+{
+    margin-bottom: 30px;
+}
+
+footer
+{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(5, 5, 95);
+    padding: 2px;
+    margin: -8px;
+}
